@@ -32,7 +32,7 @@
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/laura-costa-nunes-35a275183)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lauracnunes2/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauracostanunes4@gmail.com)
