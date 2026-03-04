@@ -40,5 +40,5 @@
 
 <p align="center"> 
   <br>
-  <img src="https://komarev.com/ghpvc/?username=marinanevesa&label=Perfil%20Visualizado%20&color=8A2BE2&style=flat" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=lauracostanunes&label=Perfil%20Visualizado%20&color=8A2BE2&style=flat" alt="Contador de Visitas" />
 </p>
