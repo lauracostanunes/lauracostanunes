@@ -8,12 +8,16 @@
 
 <h2 align="center">Atuação</h2>
 
-<p align="center">
-  <b>Estagiária de Governança de TI</b> · Serasa Experian<br>
-  <b>Ciência da Computação</b> · Uni-FACEF<br>
-  <b>Segurança Cibernética</b> · Gran Faculdade<br>
-  <b>PET-Saúde</b> · TI aplicada à informação e comunicação na saúde pública
-</p>
+<div align="center">
+
+| Instituição | Atuação |
+|:--|:--|
+| **Serasa Experian** | Estagiária de Governança de TI |
+| **Uni-FACEF** | Graduanda em Ciência da Computação |
+| **Gran Faculdade** | Segurança Cibernética |
+| **PET-Saúde** | Desenvolvimento de um chatbot para a saúde pública |
+
+</div>
 
 <br>
 
